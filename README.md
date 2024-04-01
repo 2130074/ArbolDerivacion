@@ -1,5 +1,10 @@
 Hola bienvenidos a el tema de arboles de derivación
 
+
+El video donde se expliaca del tema y se dan ejemplos es muy pesado por lo que no se puede cargar, este es el link: 
+https://drive.google.com/file/d/1pZJkFUhaX2gAuX9HXwlRB7oUkd-kSxB0/view?usp=sharing
+
+
 Los árboles de derivación son estructuras gráficas utilizadas en el análisis gramatical y la teoría de lenguajes formales.
    - Un árbol de derivación es una representación visual que muestra cómo se puede derivar una cadena de símbolos a partir de las reglas de una gramática formal. Estas reglas definen cómo se construyen las cadenas válidas en un lenguaje.
    - Cada nodo en el árbol representa un símbolo (terminal o no terminal), y los arcos entre los nodos representan las reglas de producción aplicadas para derivar la cadena.
@@ -39,12 +44,12 @@ Bibliografías:
 (4) Árbol de Derivación - Genially. https://view.genial.ly/6484d4c9e380930018a18593/presentation-arbol-de-derivacion.
 (5) Arboles de derivación - información completa - Arboles de ... - Studocu. https://www.studocu.com/es-mx/document/instituto-tecnologico-de-saltillo/lenguajes-y-automatas-i/arboles-de-derivacion-informacion-completa/44318710.
 
+
 Extras: 
 Videos donde se pueden apoyar: 
 * https://www.youtube.com/watch?v=RguJJoFXqfw
 
-El video donde se expliaca del tema y se dan ejemplos es muy pesado por lo que no se puede cargar, este es el link: 
-https://drive.google.com/file/d/1pZJkFUhaX2gAuX9HXwlRB7oUkd-kSxB0/view?usp=sharing
+
 * https://www.bing.com/videos/riverview/relatedvideo?q=arboles+de+derivacion&mid=A40AF46630D879F7DC6EA40AF46630D879F7DC6E&FORM=VIRE
 * https://www.youtube.com/watch?v=LAr9CsUAht8
 * https://www.youtube.com/watch?v=qkJQpTzYPqs
