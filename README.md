@@ -48,10 +48,9 @@ Bibliografías:
 Extras: 
 Videos donde se pueden apoyar: 
 * https://www.youtube.com/watch?v=RguJJoFXqfw
-
-
 * https://www.bing.com/videos/riverview/relatedvideo?q=arboles+de+derivacion&mid=A40AF46630D879F7DC6EA40AF46630D879F7DC6E&FORM=VIRE
 * https://www.youtube.com/watch?v=LAr9CsUAht8
 * https://www.youtube.com/watch?v=qkJQpTzYPqs
+
 El siguiente pdf me parecio interesante ya que abarca desde gramática: 
 *http://ri.uaemex.mx/bitstream/handle/20.500.11799/34043/secme-16209.pdf?sequence=1
